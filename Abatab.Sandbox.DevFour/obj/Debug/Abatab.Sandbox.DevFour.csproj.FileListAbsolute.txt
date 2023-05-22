@@ -1,0 +1,6 @@
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevFour\bin\Debug\Abatab.Sandbox.DevFour.dll
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevFour\bin\Debug\Abatab.Sandbox.DevFour.pdb
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevFour\obj\Debug\Abatab.Sandbox.DevFour.csproj.AssemblyReference.cache
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevFour\obj\Debug\Abatab.Sandbox.DevFour.csproj.CoreCompileInputs.cache
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevFour\obj\Debug\Abatab.Sandbox.DevFour.dll
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevFour\obj\Debug\Abatab.Sandbox.DevFour.pdb

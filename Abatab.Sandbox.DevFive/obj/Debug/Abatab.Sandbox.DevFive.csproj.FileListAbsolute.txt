@@ -1,0 +1,6 @@
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevFive\bin\Debug\Abatab.Sandbox.DevFive.dll
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevFive\bin\Debug\Abatab.Sandbox.DevFive.pdb
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevFive\obj\Debug\Abatab.Sandbox.DevFive.csproj.AssemblyReference.cache
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevFive\obj\Debug\Abatab.Sandbox.DevFive.csproj.CoreCompileInputs.cache
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevFive\obj\Debug\Abatab.Sandbox.DevFive.dll
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevFive\obj\Debug\Abatab.Sandbox.DevFive.pdb
