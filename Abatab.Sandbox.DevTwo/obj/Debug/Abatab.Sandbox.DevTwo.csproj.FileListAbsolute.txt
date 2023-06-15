@@ -1,6 +1,0 @@
-C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevTwo\bin\Debug\Abatab.Sandbox.DevTwo.dll
-C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevTwo\bin\Debug\Abatab.Sandbox.DevTwo.pdb
-C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevTwo\obj\Debug\Abatab.Sandbox.DevTwo.csproj.AssemblyReference.cache
-C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevTwo\obj\Debug\Abatab.Sandbox.DevTwo.csproj.CoreCompileInputs.cache
-C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevTwo\obj\Debug\Abatab.Sandbox.DevTwo.dll
-C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevTwo\obj\Debug\Abatab.Sandbox.DevTwo.pdb
