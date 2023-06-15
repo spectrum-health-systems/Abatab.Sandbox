@@ -1,0 +1,6 @@
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevThree\bin\Debug\Abatab.Sandbox.DevThree.dll
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevThree\bin\Debug\Abatab.Sandbox.DevThree.pdb
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevThree\obj\Debug\Abatab.Sandbox.DevThree.csproj.AssemblyReference.cache
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevThree\obj\Debug\Abatab.Sandbox.DevThree.csproj.CoreCompileInputs.cache
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevThree\obj\Debug\Abatab.Sandbox.DevThree.dll
+C:\IT\GitHub\SHS\Abatab\Sandbox\Abatab.Sandbox.DevThree\obj\Debug\Abatab.Sandbox.DevThree.pdb
